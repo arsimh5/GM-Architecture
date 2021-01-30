@@ -1,0 +1,96 @@
+.navbar-brand{
+
+    color: black;
+    font-weight: bold;
+}
+
+
+.navbar-light  .navbar-nav .nav-item{
+
+    margin: 0 20px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+
+ 
+.fa-facebook {
+    color:gray;
+  }
+  
+
+  .fa-twitter {
+    color: gray;
+  }
+
+  .carousel-inner{
+    height: 500px;
+ }
+
+ .nav-item a:hover {
+
+  color: black;
+  font-weight: bold;
+
+ }
+
+
+.showcase {
+
+    margin-top: 40px;
+}
+
+.home-title {
+
+    color:red;
+}
+
+#firstspan {
+
+    color: red;
+    font-weight: bold;
+}
+
+
+
+#square{
+
+  width: 150px;
+  height: 150px;
+  background-color:white;
+  border:  red 2px solid;
+  margin: 200px;
+}
+
+.latestNews{
+
+  border-left: red 2px solid;
+  padding-left: 30px;
+}
+
+.latestnews-images{
+
+  margin-top: 50px;
+
+}
+
+#nav-item a:hover{
+
+  color: red;
+  font-weight: bold;
+}
+ 
+
+
+
+
+
